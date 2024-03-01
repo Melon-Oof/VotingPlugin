@@ -86,8 +86,8 @@ VoteReminding:
 # Format options
 ###########################################
     
-# Common PlacesHolders:
-# Special PlaceHolders will be commented where available
+# Common Placeholders:
+# Special Placeholders will be commented where available
 # %player% = player name  
 # %SiteName% = vote site name
 #
